@@ -15,7 +15,6 @@ const Posts = () => {
     email: "",
     phone: "",
     website: "",
-    address: { street: "", city: "", zipcode: "" },
   });
 
   // api call to get users
